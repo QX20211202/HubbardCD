@@ -2,7 +2,7 @@
 
 This code generates the data reported in arXiv:XXXX.XXXXX
 
-Variational counterdiabatic protocol for 1D Hubbard chain up to $L = 12$ sites with $l <= 3$ and $L = 14$ with $l <=2$.
+Variational counterdiabatic protocol for 1D Hubbard chain up to $L = 14$ with $l <= 3$.
 
 Time evolution is solved by using Chebyshev polynomial expansion.
 
