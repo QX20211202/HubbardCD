@@ -1,6 +1,6 @@
 # HubbardCD
 
-This code generates the data reported in arXiv:2206.07597
+This code generates the data reported in arXiv:2206.07597 http://arxiv.org/abs/2206.07597
 
 Variational counterdiabatic protocol for 1D Hubbard chain up to $L = 14$ sites with $l \geqslant 3$.
 
