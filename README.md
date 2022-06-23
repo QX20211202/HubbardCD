@@ -4,7 +4,7 @@ This code generates the data reported in arXiv:2206.07597 http://arxiv.org/abs/2
 
 Variational counterdiabatic protocol for 1D Hubbard chain up to $L = 14$ sites with $l \leqslant 3$.
 
-Sparse matrices are explicited store in the memory. For the extreme case $L = 14$ and $l = 3$, the sparse matrix need more than 333 GB memory.
+Sparse matrices are explicited stored in the memory. For the extreme case $L = 14$ and $l = 3$, the sparse matrix need more than 333 GB memory.
 
 Time evolution is solved by using Chebyshev polynomial expansion.
 
